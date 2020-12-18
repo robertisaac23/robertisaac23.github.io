@@ -19,7 +19,20 @@
     font-size: 20px;
 }
 
-.container h4 {
+.container h3 {
     font-style: oblique;
     font-weight: 600;
+}
+
+#firstImage {
+    margin: 20px 0 20px 0;
+}
+
+#guidelines {
+    margin-bottom: 20px;
+}
+
+#citation {
+    margin-left: 50px;
+    font-size: 11px !important;
 }
